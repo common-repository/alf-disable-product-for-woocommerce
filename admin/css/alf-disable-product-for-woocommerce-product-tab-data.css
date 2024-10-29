@@ -1,0 +1,74 @@
+#unavailability_schedule .orig {
+    /*clear: both;*/
+    display: block;
+}
+#unavailability_schedule .dfield {
+    display: block;
+    clear: both;
+    margin: 15px auto 0;
+}
+#unavailability_schedule .alf_dp_schedule {
+    width: 37%;
+}
+#unavailability_schedule button {
+    cursor: pointer;
+    width: 35px;
+    padding: 5px 0 10px;
+    font-size: 2em;
+    font-weight: bold;
+    height: 30px;
+    line-height: 0;
+    border-radius: 10px;
+    border: none;
+    background: #ff8585;
+    color: #fff;
+    margin: 0 0 0 15px;
+}
+#unavailability_schedule button.add-field {
+    background: #62b9e0;
+}
+#unavailability_schedule .alf_dp_schedule.has-error {
+    border: 1px solid #f00;
+}
+#unavailability_schedule input.checkbox {
+    width: auto;
+    min-width: 19px;
+}
+#unavailability_schedule label {
+    width: 30px;
+    float: none;
+    margin: -20px 0 0 0;
+    display: inline-block;
+    vertical-align: top;
+    text-align: center;
+}
+#unavailability_schedule label input.checkbox {
+    float: none;
+}
+#unavailability_schedule.alf_dp_cat {
+    padding: 0 0 18px;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    margin: 0 auto 20px;
+}
+#unavailability_schedule.alf_dp_cat label {
+    width: auto;
+    display: block;
+    text-align: left;
+    margin: 0 auto 10px;
+}
+#unavailability_schedule.alf_dp_cat label[for*="[annual]"] {
+    display: inline-block;
+    margin: -15px auto 0;
+    width: 40px;
+    text-align: center;
+}
+#unavailability_schedule.alf_dp_cat label[for*="[annual]"] input.checkbox {
+    margin: 5px auto 0;
+}
+#unavailability_schedule.alf_dp_cat input#alf_dp_disabled {
+    margin: 0 0 0 10px;
+}
+.woocommerce_options_panel .dimensions_field span#unavailability_schedule.wrap {
+    width: 100%;
+}

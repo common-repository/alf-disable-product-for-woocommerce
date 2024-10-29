@@ -1,0 +1,287 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2020-03-11 17:36+0800\n"
+"PO-Revision-Date: 2020-03-11 17:36+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: _e;__;Additional keywords\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:89
+msgid "Settings"
+msgstr "Settings"
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:90
+msgid "Products"
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:100
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:109
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:125
+msgid "ALF Disable Products"
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:127
+msgid "Configure the global options for ALF Disable Products Plugin."
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:133
+msgid "\"Add to cart\" Button Text"
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:134
+msgid "Change the Add to Cart button text for disabled products."
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:137
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:18
+#: public/class-alf-disable-product-for-woocommerce-public.php:76
+msgid "Unavailable"
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:142
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:60
+msgid "Single Product Notice"
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:143
+msgid "Change text to display on Single Product page's Message"
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:146
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:19
+#: public/class-alf-disable-product-for-woocommerce-public.php:91
+msgid "This product is unavailable as of the moment."
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:166
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:191
+msgid "Purchase Disabled?"
+msgstr ""
+
+#: admin/class-alf-disable-product-for-woocommerce-admin.php:218
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:22
+msgid "Disable Product"
+msgstr ""
+
+#: admin/partials/alf-disable-product-for-woocommerce-product-category-edit.php:16
+#: admin/partials/alf-disable-product-for-woocommerce-product-category.php:16
+msgid "Disable Products"
+msgstr ""
+
+#: admin/partials/alf-disable-product-for-woocommerce-product-category-edit.php:19
+#: admin/partials/alf-disable-product-for-woocommerce-product-category.php:18
+msgid "Check to disable this Category's product from Purchases"
+msgstr ""
+
+#: admin/partials/alf-disable-product-for-woocommerce-product-category-edit.php:23
+#: admin/partials/alf-disable-product-for-woocommerce-product-category.php:24
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:27
+msgid "Schedule Unavailability"
+msgstr ""
+
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:23
+msgid "Check to disable this product from Purchases"
+msgstr ""
+
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:53
+msgid "Button Text"
+msgstr ""
+
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:55
+#: admin/partials/alf-disable-product-for-woocommerce-product-tab-data.php:62
+msgid "To change default click here <a href=\""
+msgstr ""
+
+#: alf-disable-product-for-woocommerce.php:51
+#: alf-disable-product-for-woocommerce.php:53
+msgid ""
+"<p><strong>ALF Disable Product for Woocommerce:</strong> Please make sure at "
+"least <strong>Woocommerce <u>3.9.0</u></strong> is installed & activated<p>"
+msgstr ""
+
+#: alf-disable-product-for-woocommerce.php:51
+msgid "Go Back"
+msgstr ""
+
+#, fuzzy
+#~| msgid "Description"
+#~ msgid "Question"
+#~ msgstr "Description"
+
+#~ msgid " Settings"
+#~ msgstr " Settings"
+
+#~ msgid "Dashboard"
+#~ msgstr "Dashboard"
+
+#~ msgid "Please setup your correct ComCart EMA API Details"
+#~ msgstr "Please setup your correct ComCart EMA API Details"
+
+#~ msgid "Please setup your correct ComCart CRM Login Details"
+#~ msgstr "Please setup your correct ComCart CRM Login Details"
+
+#~ msgid ""
+#~ "Invalid Request please refresh this page. If problem persist contact "
+#~ "administrator."
+#~ msgstr ""
+#~ "Invalid Request please refresh this page. If problem persist contact "
+#~ "administrator."
+
+#~ msgid "Viewing Top 10 Data"
+#~ msgstr "Viewing Top 10 Data"
+
+#~ msgid "View More"
+#~ msgstr "View More"
+
+#~ msgid "Unique ID"
+#~ msgstr "Unique ID"
+
+#~ msgid "Visible Name"
+#~ msgstr "Visible Name"
+
+#~ msgid "Name"
+#~ msgstr "Name"
+
+#~ msgid "First Name"
+#~ msgstr "First Name"
+
+#~ msgid "Last Name"
+#~ msgstr "Last Name"
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Age"
+#~ msgstr "Age"
+
+#~ msgid "Date Added"
+#~ msgstr "Date Added"
+
+#~ msgid "Status"
+#~ msgstr "Status"
+
+#~ msgid "Subscribers"
+#~ msgstr "Subscribers"
+
+#~ msgid "Error"
+#~ msgstr "Error"
+
+#~ msgid "Listings"
+#~ msgstr "Listings"
+
+#~ msgid "Campaign ID"
+#~ msgstr "Campaign ID"
+
+#~ msgid "Campaigns"
+#~ msgstr "Campaigns"
+
+#~ msgid "Template ID"
+#~ msgstr "Template ID"
+
+#~ msgid "Screenshot"
+#~ msgstr "Screenshot"
+
+#~ msgid "Templates"
+#~ msgstr "Templates"
+
+#~ msgid "Account Name"
+#~ msgstr "Account Name"
+
+#~ msgid "Office Phone"
+#~ msgstr "Office Phone"
+
+#~ msgid "User"
+#~ msgstr "User"
+
+#~ msgid "Date Created"
+#~ msgstr "Date Created"
+
+#~ msgid "Sales Stage"
+#~ msgstr "Sales Stage"
+
+#~ msgid "Amount"
+#~ msgstr "Amount"
+
+#~ msgid "Close"
+#~ msgstr "Close"
+
+#~ msgid "Direction"
+#~ msgstr "Direction"
+
+#~ msgid "Subject"
+#~ msgstr "Subject"
+
+#~ msgid "Related To"
+#~ msgstr "Related To"
+
+#~ msgid "Start Date"
+#~ msgstr "Start Date"
+
+#~ msgid "Assigned to"
+#~ msgstr "Assigned to"
+
+#~ msgid "Contact"
+#~ msgstr "Contact"
+
+#~ msgid "Assigned User"
+#~ msgstr "Assigned User"
+
+#~ msgid "ComCart EMA Login URL"
+#~ msgstr "ComCart EMA Login URL"
+
+#~ msgid "Public Key"
+#~ msgstr "Public Key"
+
+#~ msgid "Private Key"
+#~ msgstr "Private Key"
+
+#~ msgid "ComCart CRM Login URL"
+#~ msgstr "ComCart CRM Login URL"
+
+#~ msgid "ComCart CRM Username"
+#~ msgstr "ComCart CRM Username"
+
+#~ msgid "ComCart CRM Password"
+#~ msgstr "ComCart CRM Password"
+
+#~ msgid "ComCart EMA API Credentials"
+#~ msgstr "ComCart EMA API Credentials"
+
+#~ msgid "ComCart CRM API Credentials"
+#~ msgstr "ComCart CRM API Credentials"
+
+#~ msgid "ComCart EMA"
+#~ msgstr "ComCart EMA"
+
+#~ msgid "ComCart CRM"
+#~ msgstr "ComCart CRM"
+
+#~ msgid "Leads"
+#~ msgstr "Leads"
+
+#~ msgid "Top 10 Opportunities"
+#~ msgstr "Top 10 Opportunities"
+
+#~ msgid "Calls"
+#~ msgstr "Calls"
+
+#~ msgid "Meetings"
+#~ msgstr "Meetings"
+
+#~ msgid "MailWizz Login URL"
+#~ msgstr "MailWizz Login URL"
+
+#~ msgid "MailWizz API Credentials"
+#~ msgstr "MailWizz API Credentials"
+
+#~ msgid "API URL"
+#~ msgstr "API URL"
